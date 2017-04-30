@@ -10,4 +10,12 @@ Alat yang diperlukan:
 5. Piezo Buzzer
 6. Wadah pellet ikan berbentuk silinder dengan penutup
 
-![`gambar](http://)
+### Rangkaian Komponen
+
+![Rangkaian Komponen](https://raw.githubusercontent.com/mpratama/arduinopetfeeder/master/rangkaian_pet_feeder.jpg)
+
+### Hasil
+
+![Hasil 01](https://raw.githubusercontent.com/mpratama/arduinopetfeeder/master/pet_feeder_01.jpg)
+https://raw.githubusercontent.com/mpratama/arduinopetfeeder/master/pet_feeder_02.jpg
+![Hasil 02](https://raw.githubusercontent.com/mpratama/arduinopetfeeder/master/pet_feeder_02.jpg)

@@ -7,6 +7,11 @@
  * 4. Resistor 220 Ohm
  * 5. Piezo Buzzer
  * 6. Wadah pellet ikan berbentuk silinder dengan penutup
+ *
+ * Gambar:
+ * 1. https://raw.githubusercontent.com/mpratama/arduinopetfeeder/master/rangkaian_pet_feeder.jpg
+ * 2. https://raw.githubusercontent.com/mpratama/arduinopetfeeder/master/pet_feeder_01.jpg
+ * 3. https://raw.githubusercontent.com/mpratama/arduinopetfeeder/master/pet_feeder_02.jpg
  */
 
 #include <Servo.h> // Aktifkan modul servo
